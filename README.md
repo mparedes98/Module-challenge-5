@@ -60,3 +60,4 @@ The following analyses were conducted using Python with pandas:
 - Jupyter Notebook
 
 ## Conclusion
+The analysis reveals that the Northeast region, particularly New York City, leads in both total products sold and sales revenue. West Gear emerged as the top retailer overall and specifically for women's athletic footwear. The highest sales for women's athletic footwear occurred in mid-July 2021, with the strongest weekly performance in December 2021, likely due to holiday shopping.
